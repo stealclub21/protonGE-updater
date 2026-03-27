@@ -34,4 +34,3 @@ if [ ! -d "$LOCAL_PATH/$LATEST_VERSION" ]; then
 else
     echo "Your proton version is up to date!"
 fi
-
