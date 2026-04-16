@@ -7,7 +7,3 @@ Usage:
 - check if the LOCAL_PATH variable is the correct path for you (if not, edit it in the script)
 - make it executable (chmod +x proton-check.sh)
 - run it with './proton-check.sh'
-
-tipp:
-Create a link to it somewhere in your home folder,
-name it whatever you want, so you do not have to locate it every time. (epic)
